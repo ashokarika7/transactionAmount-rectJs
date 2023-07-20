@@ -1,0 +1,132 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.money-manager-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  width: 546px;
+  padding: 15px;
+  padding-left: 22px;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
+.manager-title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.manager-para {
+  color: #475569;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.manager-span-el {
+  color: #0b69ff;
+}
+
+.balance-display-container {
+  width: 546px;
+}
+
+.final-bg {
+  width: 546px;
+  padding: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-bg {
+  width: 210px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-title {
+  color: #1e293b;
+  font-size: 12px;
+}
+
+.title-label {
+  color: #7e858e;
+  font-size: 9px;
+  margin-top: 3px;
+}
+
+.title-style {
+  border: 1px solid #d7dfe9;
+  border-radius: 2px;
+  color: #7e858e;
+  font-size: 7px;
+  margin-top: 3px;
+  width: 170px;
+  height: 22px;
+  padding-left: 8px;
+  margin-bottom: 11px;
+  outline: none;
+}
+
+.select-style {
+  font-size: 9px;
+  color: black;
+}
+
+.btn-el {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-size: 10px;
+  width: 45px;
+  height: 25px;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.History-container {
+  width: 300px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.history-card-container {
+  width: 260px;
+  border: 1px solid #d7dfe9;
+  padding-left: 15px;
+}
+
+.hitory-headings-display {
+  display: flex;
+  justify-content: space-between;
+  width: 166px;
+}
+
+.display-style {
+  color: #1e293b;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.history-ul-style {
+  list-style-type: none;
+  width: 260px;
+  padding-left: 0px;
+  margin-top: 0px;
+}

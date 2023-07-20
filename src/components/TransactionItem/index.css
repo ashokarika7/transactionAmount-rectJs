@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.li-card-container {
+  width: 100%;
+  border: 1px solid #d7dfe9;
+  padding-left: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.li-para {
+  font-size: 10px;
+  color: #334155;
+}
+
+.img-btn-el {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.li-img {
+  height: 18px;
+  width: 18px;
+}
